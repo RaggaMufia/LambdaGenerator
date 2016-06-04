@@ -10,5 +10,5 @@ gcc -o teste main.c
 > Prolog: Open the 'll1.pl' file and run the clause "run".
 
 # Comments 
-* The prolog's generated output file has huge size (Above 16 GB) for this reason your example result has only first 10000 rows.
+The prolog's generated output file for words with size of 7 or more has huge size (Above 16 GB). Therefore, our example result has only the first 10000 rows.
 
