@@ -2,7 +2,7 @@
 An prolog implementation using DCG to generate lambda terms from an given alphabet. The result can be evaluated by C program that return an list of accepted words.
 
 # Compiling (C)
-gcc -o teste main.c
+gcc -o teste pushdown.c
 
 # Running
 > C: ./teste
